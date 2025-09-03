@@ -2,4 +2,5 @@
 het is een slechte website dat ik tijdens de les gemaakt heb
 [https://www.zuyd.nl](url)
 [Dit ben ik](img/yes.jpg)
+<img src="img/yes.jpg" width=100 />
 
